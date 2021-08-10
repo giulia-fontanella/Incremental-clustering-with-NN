@@ -1,1 +1,1 @@
-# Incremental-clustering-with-NN
+# Incremental clustering of the perceptions of an agent with neural networks
