@@ -7,7 +7,9 @@ The algorithm which works incrementally, it can continue to learn at every step,
 This algorithm will operate online, as opposed to classic offline clustering algorithms. 
 The algorithm will be deployed to explore a new unseen room, building clusters of perceptions as the agent moves around.
 
+The file 'train.py' performs the pre-training of a neural network to recognize if two perceptions are relative to a same object or not.
 
+The file 'test_online.py' performs the clustering online, during the agent exploration of the new rooms.
 
 
 
